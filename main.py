@@ -9,18 +9,20 @@ def clear():
 #you can also put links here, just do  "str" +"link adress"
 
 
-c1 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"  
-c2 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"  
-c3 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c4 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c5 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c6 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c7 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c8 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c9 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c10 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c11 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
-c12 = "Coconut Song: ""https://www.youtube.com/watch?v=w0AOGeqOnFY"
+c1 = " "
+c2 = " "
+c3 = " "
+c4 = " "
+c5 = " "
+c6 = " "
+c7 = " "
+c8 = " "
+c9 = " "
+c10 = " "
+c11 = " "
+c12 = " "
+
+GeqOnFY"
 
 github = ""
 
